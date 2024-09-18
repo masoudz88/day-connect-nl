@@ -1,16 +1,8 @@
-# day_connect_nl
+# CareConnectNL
+CareConnect offers a streamlined solution for facilitating connections between parents and daycares.
 
-A new Flutter project.
+# Overview
+CareConnect aims to revolutionize the way parents and daycares communicate and interact. Our platform simplifies the process of finding the right daycare, making it easier for parents to make informed decisions about their childcare options.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App Demonstration
+Watch our comprehensive app presentation on YouTube to see CareConnect in action and understand the features and benefits it offers. Click [here](https://www.youtube.com/watch?v=BKND9y68cUw) to view the video.
